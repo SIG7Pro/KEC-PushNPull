@@ -1,2 +1,5 @@
 export/
 .timetracker
+desktop.ini
+.desktop
+.DS_Store
